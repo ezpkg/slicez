@@ -10,12 +10,12 @@
 [![GitHub License](https://img.shields.io/github/license/ezpkg/slicez)](https://github.com/ezpkg/slicez/tree/main/LICENSE)
 [![version](https://img.shields.io/github/v/tag/ezpkg/slicez?label=version)](https://github.com/ezpkg/slicez/tags)
 
-Package slicez extends the standard library [slices](https://pkg.go.dev/slices) with additional functions.
+Package [slicez](https://pkg.go.dev/ezpkg.io/slicez) extends the standard library [slices](https://pkg.go.dev/slices) with additional functions.
 
 ## Installation
 
 ```sh
-go get -u ezpkg.io/slicez@v0.0.7
+go get -u ezpkg.io/slicez@v0.0.8
 ```
 
 ## Examples
