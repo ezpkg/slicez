@@ -3,7 +3,7 @@ module ezpkg.io/slicez
 go 1.21
 
 require (
-	ezpkg.io/typez v0.1.1
+	ezpkg.io/typez v0.1.2
 )
 
 require (
